@@ -13,12 +13,12 @@
   
 ### Hi, I’m Tércio. 👋
 
-## I'm  postdoc at the [Núcleo de Neurociências do Movimento (NNeuroM)](https://nneurom.com/), professor at the [Instituto Metodista Izabela Hendrix](http://izabelahendrix.edu.br/) and [Human Movement Researcher](https://researchgate.net/profile/Tercio-Apolinario-Souza).
+I'm  postdoc at the [Núcleo de Neurociências do Movimento (NNeuroM)](https://nneurom.com/), professor at the [Instituto Metodista Izabela Hendrix](http://izabelahendrix.edu.br/) and [Human Movement Researcher](https://researchgate.net/profile/Tercio-Apolinario-Souza).
 
 ### Interests
-# - Mechanisms associated with memory processes in motor learning
-# - Errorless Learning
-# - Mathematical modeling
+- Mechanisms associated with memory processes in motor learning
+- Errorless Learning
+- Mathematical modeling
 
 #### My Skill Set  
 
@@ -36,31 +36,34 @@
 </div>
 
 
-My publications
-<div align="center">
-  
+### My publications
+<div align="center">  
 <a href="https://scholar.google.com.br/citations?user=5qqDi0oAAAAJ&hl=pt-BR" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="25" style="margin-bottom: 5px;"  />
+<img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="50" style="margin-bottom: 5px;"  />
+</a>
+<a href="https://researchgate.net/profile/Tercio-Apolinario-Souza" target="_blank">
+<img src="https://github.com/edftercio/edftercio/blob/main/img/RG.svg" alt=RG height="50" style="margin-bottom: 5px;"  />
+</a>
+<a href="https://orcid.org/0000-0002-2136-0238" target="_blank">
+<img src="https://github.com/edftercio/edftercio/blob/main/img/orcid.svg" alt=orcid height="50" style="margin-bottom: 15px;"  />
+</a>
+<a href="https://publons.com/researcher/2206133/tercio-apolinario-souza/" target="_blank">
+<img src="https://github.com/edftercio/edftercio/blob/main/img/researcherid.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
+</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=56816867700" target="_blank">
+<img src="https://github.com/edftercio/edftercio/blob/main/img/scopus.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
 </a>
 
 <br/>  
 
-## More about me  
+# More about me 
 <div align="center">
 
 <a href="https://twitter.com/edf_tercio" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tércio-apolinário-de-souza-67519a14a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/tercio_apolinario" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<a href="https://scholar.google.com.br/citations?user=5qqDi0oAAAAJ&hl=pt-BR" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="25" style="margin-bottom: 5px;"  />
-</a>
-</div>  
-  
+</a>   
 
 <br/>  
