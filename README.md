@@ -36,13 +36,18 @@
 </div>
 
 
-
-
-## More about me  
+My publications
 <div align="center">
+  
 <a href="https://scholar.google.com.br/citations?user=5qqDi0oAAAAJ&hl=pt-BR" target="_blank">
 <img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="25" style="margin-bottom: 5px;"  />
 </a>
+
+<br/>  
+
+## More about me  
+<div align="center">
+
 <a href="https://twitter.com/edf_tercio" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -51,7 +56,10 @@
 </a>
 <a href="https://instagram.com/tercio_apolinario" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://scholar.google.com.br/citations?user=5qqDi0oAAAAJ&hl=pt-BR" target="_blank">
+<img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="25" style="margin-bottom: 5px;"  />
+</a>
 </div>  
   
 
