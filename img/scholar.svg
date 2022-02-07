@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="209mm"
-   height="210mm"
-   viewBox="0 0 209 210"
+   width="130mm"
+   height="30mm"
+   viewBox="0 0 130 30"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,10 +24,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     width="267mm"
+     width="100mm"
      inkscape:zoom="0.4641344"
-     inkscape:cx="401.82327"
-     inkscape:cy="437.37331"
+     inkscape:cx="166.9775"
+     inkscape:cy="316.71861"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -35,16 +35,38 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13651">
+      <rect
+         style="fill:#4285f4;fill-opacity:1;stroke:#000000;stroke-width:1.24782"
+         id="rect13653"
+         width="36.146427"
+         height="33.759388"
+         x="94.415085"
+         y="147.92775" />
+    </clipPath>
+  </defs>
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       width="206.28596"
-       height="206.28596"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAIAAACx0UUtAAAAA3NCSVQICAjb4U/gAAAbPUlEQVR4
+    <g
+       id="g17044"
+       transform="matrix(0.94271227,0,0,0.942241,-5.7538339,-81.510579)">
+      <rect
+         style="fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:0.868475"
+         id="rect10944"
+         width="132.62225"
+         height="33.133347"
+         x="8.9331932"
+         y="86.334961" />
+      <image
+         width="39.544643"
+         height="39.544998"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAIAAACx0UUtAAAAA3NCSVQICAjb4U/gAAAbPUlEQVR4
 nO2de3gU5bnA3++bndnZG5ANAQOEQAIoRFFAwAJHLVqggmKPXEpbRC1WCsdL2yNFe/Dpo8dqRT0c
 LBWO+mDRinLRYqWHS0uRg2hEiqghlpuEQLiEbIC9zc43M9/5Y0IIIZed3dnN7Mz3e/iLZJPd7G/f
 7/Z+74sopWASRIXac9qBE9rxM9qhWu3YWVoXpfEETahg3i9hWAiEwM2Bx43yfahXF1RagHt2xf0L
@@ -169,8 +191,22 @@ wzKrSsy4BH1YDwgwupS7aySfTguXtBzVCUXorgPKp4fUTw6rVecbqhXrdWKZtQ5BT0JqLHtd3And
 UMKNKOWG93el3wbDBEcbISrUntMOnNCOn9EO1WrHztK6KI0naEJlZXjtCULg5sDjRvk+1KsLKi3A
 Pbvi/oW4oHNaXdCb8f+hsuDczwS/xwAAAABJRU5ErkJggg==
 "
-       id="image201"
-       x="1.755196"
-       y="1.4442475" />
+         id="image201"
+         x="92.1745"
+         y="144.42456"
+         clip-path="url(#clipPath13651)"
+         transform="matrix(1,0,0,0.88992908,10.464775,-43.556629)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="14.399956"
+         y="104.01479"
+         id="text3550"><tspan
+           sodipodi:role="line"
+           id="tspan3548"
+           style="font-weight:bold;fill:#ffffff;stroke-width:0.264584"
+           x="14.399956"
+           y="104.01479">Google scholar</tspan></text>
+    </g>
   </g>
 </svg>
