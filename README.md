@@ -57,15 +57,18 @@ I'm postdoc at the [NNeuroM](https://nneurom.com), professor at the Instituto Me
 </a>
 
 <br/>  
+ </div>
 
-# More about me 
+#More about me 
 <div align="center">
 
 <a href="https://twitter.com/edf_tercio" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/tercio_apolinario" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   
+<img src=https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.youtube.com/channel/UCyqaQ-qwKH1JVPDHB7QfdIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/apolinariosouza" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 <br/>  
