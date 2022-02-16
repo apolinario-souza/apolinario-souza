@@ -59,7 +59,7 @@ I'm postdoc at the [NNeuroM](https://nneurom.com), professor at the Instituto Me
 <br/>  
  </div>
 
-#More about me 
+# More about me 
 <div align="center">
 
 <a href="https://twitter.com/edf_tercio" target="_blank">
