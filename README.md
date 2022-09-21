@@ -14,7 +14,7 @@
 ### Hi, I’m Tércio. 👋
 
   
-I'm postdoc at the [NNeuroM](https://nneurom.com), professor at the Instituto Metodista Izabela Hendrix and Human Movement Researcher.
+Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br/esefid/site/) and Human Movement Researcher.
 
 ### Interests
 - Mechanisms associated with memory processes in motor learning
