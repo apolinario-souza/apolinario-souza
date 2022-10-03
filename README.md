@@ -41,19 +41,19 @@ Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.
 ### My publications
 <div align="center">  
 <a href="https://scholar.google.com.br/citations?user=5qqDi0oAAAAJ&hl=pt-BR" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/scholar.svg" alt=scholar height="50" style="margin-bottom: 5px;"  />
+<img src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/scholar.svg" alt=scholar height="50" style="margin-bottom: 5px;"  />
 </a>
 <a href="https://researchgate.net/profile/Tercio-Apolinario-Souza" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/RG.svg" alt=RG height="50" style="margin-bottom: 5px;"  />
+<img src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/RG.svg" alt=RG height="50" style="margin-bottom: 5px;"  />
 </a>
 <a href="https://orcid.org/0000-0002-2136-0238" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/orcid.svg" alt=orcid height="50" style="margin-bottom: 15px;"  />
+<img src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/orcid.svg" alt=orcid height="50" style="margin-bottom: 15px;"  />
 </a>
 <a href="https://publons.com/researcher/2206133/tercio-apolinario-souza/" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/researcherid.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
+<img src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/researcherid.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
 </a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=56816867700" target="_blank">
-<img src="https://github.com/edftercio/edftercio/blob/main/img/scopus.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
+<img src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/scopus.svg" alt=researcherid height="50" style="margin-bottom: 5px;"  />
 </a>
 
 <br/>  
