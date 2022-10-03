@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/edftercio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edftercio&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/apolinario-souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolinario-souza&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
  </div>
 
   
@@ -27,7 +27,7 @@ Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
-  <img style="margin: 10px" src="https://github.com/edftercio/edftercio/blob/main/img/labview.svg" alt="labview" height="80" />
+  <img style="margin: 10px" src="https://github.com/apolinario-souza/apolinario-souza/blob/main/img/labview.svg" alt="labview" height="80" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
