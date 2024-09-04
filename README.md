@@ -22,6 +22,22 @@ Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.
 - Motor Control
 - Mathematical modeling
 
+# Application to motor behavior teaching
+<div align="center">
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/Tempo_de_reacao_simples.html">Tempo de reação simples</a></h3>
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/Tempo_de_reacao_de_escolha.html">Tempo de reação de escolha</a></h3>
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/SRTT.html">Serial Reaction Time Task</a></h3>
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/Poffenberge.html">Poffenberge</a></h3>
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/Fitts.html">Fitts</a></h3>
+
+<h3 align="left"><a href="https://apolinario-souza/apolinario-souza.github.io/com_html/Apontamento.html">Tarefa de apontamento</a></h3>
+
+
 #### My Skill Set  
 
 <div align="center">
@@ -74,8 +90,5 @@ Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.
 <br/>  
  </div>
 
-# Application to motor behavior teaching
-<div align="center">
 
-<h3 align="left"><a href="https://apolinario-souza.github.io/Tempo_de_reacao_simples.html">Tempo de reação simples</a></h3>
 
