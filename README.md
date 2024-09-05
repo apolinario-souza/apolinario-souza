@@ -29,6 +29,8 @@ Full professor at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.
 
 <h3 align="left"><a href="https://apolinario-souza.github.io/com_html/Tempo_de_reacao_de_escolha.html">Tempo de reação de escolha</a></h3>
 
+<h3 align="left"><a href="https://apolinario-souza.github.io/com_html/Tempo_de_reacao_de_discriminacao.html">Tempo de reação discriminativo</a></h3>
+
 <h3 align="left"><a href="https://apolinario-souza.github.io/com_html/SRTT.html">Serial Reaction Time Task</a></h3>
 
 <h3 align="left"><a href="https://apolinario-souza.github.io/com_html/Poffenberge.html">Poffenberge</a></h3>
